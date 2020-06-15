@@ -10,3 +10,4 @@ function exec() {
 }
 
 exec()
+//onde a função foi definida
